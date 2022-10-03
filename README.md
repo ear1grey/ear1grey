@@ -1,1 +1,1 @@
-* I'm a Learning Designer and Senior Lecturer at University of Portsmouth where I'm a course leader on the Software Engineering degree; so of my contributions are found in the [PortSoC](https://github.com/portsoc/) organisation.
+* I'm a Learning Designer and Senior Lecturer at University of Portsmouth where I'm a course leader on the Software Engineering degree; so most of my contributions are found in the [PortSoC](https://github.com/portsoc/) organisation.
